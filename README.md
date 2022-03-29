@@ -9,7 +9,6 @@ show all the notes that you have saved.
 # Installation :
 
 `git clone https://github.com/khansaad1275/Termux-Notes` <br>
-
 <br>`cd Termux-Notes` <br>
 <br>`bash install.sh` <br>
 
